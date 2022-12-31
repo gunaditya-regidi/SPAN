@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">SPAN</string>
+    <string name="nfc_registration">NFC Registration</string>
+    <string name="btn">Sign up</string>
+    <string name="t1">NFC Registration</string>
+    <string name="message">message</string>
+    <string name="picture">picture</string>
+    <string name="mode">mode</string>
+    <string name="calculator">calculator</string>
+    <string name="exit">exit</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="e_mail">E-mail</string>
+    <string name="postal_address">Postal address</string>
+    <string name="block_name">Block name</string>
+    <string name="room_no">Room no.</string>
+    <string name="registration">Registration</string>
+    <string name="roll_no">Roll No.</string>
+    <string name="name">Name</string>
+    <string name="activate_tag">Activate Tag</string>
+    <string name="branch">Branch</string>
+    <string name="blockname">Degree</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="email">Email ID</string>
+    <string name="project_title">Project Title</string>
+    <string name="domain">Domain</string>
+    <string name="attendance">Attendance</string>
+    <string name="register_tag">Register Tag</string>
+    <string name="view_student_details">View Student Details</string>
+    <string name="download_today_s_data">Download Today\'s Data</string>
+    <string name="student_details">STUDENT DETAILS</string>
+    <string name="progress_hint">Progress Of The Project</string>
+</resources>
